@@ -19,6 +19,7 @@ The page includes:
 
 ## How to Run
 npm install
+
 npm run dev
 
 Open http://localhost:3000.
