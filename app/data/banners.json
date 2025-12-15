@@ -1,0 +1,32 @@
+{
+  "banners": [
+    {
+      "id": "banner-denim",
+      "variant": "image",
+      "heading": "Gap × Summer Fridays. The looks.",
+      "subheading": "Get ready — to stay in. With cozy essentials for unwinding and doing exactly what you want.",
+      "background": {
+        "imageUrl": "/images/gap-denim.jpeg",
+        "alt": "Gap denim image"
+      },
+      "actions": [
+        { "label": "Shop women", "href": "/women/denim", "kind": "button" },
+        { "label": "Shop men", "href": "/men/denim", "kind": "button" },
+        { "label": "Shop kids", "href": "/kids/denim", "kind": "button" },
+        { "label": "New Arrivals", "href": "/denim/new-arrivals", "kind": "button" }
+      ]
+    },
+    {
+      "id": "banner-rewards",
+      "variant": "solid",
+      "heading": "Gap Rewards members get more",
+      "background": {
+        "color": "#003a8f"
+      },
+      "actions": [
+        { "label": "details", "href": "/rewards/details", "kind": "link" },
+        { "label": "exclusions", "href": "/rewards/exclusions", "kind": "link" }
+      ]
+    }
+  ]
+}
