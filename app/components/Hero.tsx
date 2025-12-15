@@ -1,4 +1,4 @@
-// components/Hero.tsx
+
 type HeroAction = {
   label: string;
   href: string;

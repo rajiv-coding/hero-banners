@@ -1,4 +1,4 @@
-// app/page.tsx
+
 import { Hero, HeroModel } from "./components/Hero";
 
 export default async function Page() {

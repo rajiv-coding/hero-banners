@@ -1,4 +1,4 @@
-// bannerTypes.ts
+
 export type BannerVariant = "image" | "solid";
 
 export type BannerActionKind = "button" | "link";

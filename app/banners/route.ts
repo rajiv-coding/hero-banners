@@ -1,4 +1,4 @@
-// app/api/content/heroes/route.ts
+
 import banners from "../data/banners.json"
 
 export async function GET() {
